@@ -1,2 +1,2 @@
 # images01
-#using by study
+#用于保存学习的截图
